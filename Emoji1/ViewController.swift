@@ -3,7 +3,7 @@
 //  Emoji1
 //
 //  Created by Mark Langlois on 8/24/16.
-//  Copyright © 2016 Mark Langlois. All rights reserved.
+//  Copyright © 2016 Mark Langlois. All rights reserved.???
 //
 
 import UIKit
